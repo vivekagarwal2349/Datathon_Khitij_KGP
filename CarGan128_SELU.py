@@ -26,7 +26,7 @@ torch.manual_seed(manualSeed)
 
 # Root directory for dataset
 #Current directory assumes the usage of paperspace cloud gpu
-dataroot ="home/ug2020/ece/20095126/car-design-generation/thecarconnection_classified_images/pictures"
+dataroot ="home/ug2020/ece/20095126/Datathon_Khitij_KGP/thecarconnection_classified_images/pictures"
 
 # Number of workers for dataloader
 workers = 2
